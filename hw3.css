@@ -4,6 +4,7 @@ body {
     font-weight: bold;
     background: url(https://i.pinimg.com/originals/c9/1c/74/c91c7444028f8562c01a608ac86c3d45.png);
     background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .pic {
