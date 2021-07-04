@@ -1,0 +1,17 @@
+.body {
+    background-color: #ffffff;
+    font-family: sans-serif;
+    -webkit-box-sizing: content-box;
+    box-sizing: content-box; }
+  
+.container {
+    margin: 0 auto;
+    padding-top: 50px; }
+.aboba {
+    max-width: 200px;
+    display: block;
+    margin: 0 auto 300px;
+    background-color: #ffffff;
+    padding: 50px;
+    border-radius: 0px;
+    box-shadow: 0 2px 10px 0 #000000; }
